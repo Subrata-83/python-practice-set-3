@@ -1,3 +1,7 @@
+# Write a program to find out whether a given post is talking about “Subrata” or not.
+
+
+
 post=input("Enter the post: ")
 
 if("Subrata".lower() in post.lower()):
